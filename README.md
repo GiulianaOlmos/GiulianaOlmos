@@ -5,7 +5,7 @@
 
 I am currently working on integrations with NodeJs and user interfaces with Angular.
 During my free time I collaborate and mentor in projects with ReactJs. 
-I am a Co-organizer in @ReactLadies (I love to participate in the communities).
+I am a Co-organizer in ReactLadies (I love to participate in the communities).
 
 Skills: ReactJs / JS / HTML / CSS / NodeJS / Express / MySQL / MongoDB
 
