@@ -8,7 +8,7 @@ During my free time I collaborate and mentor in projects with Javascript.
 I am a Co-organizer in ReactLadies (I love to participate in the communities).
 I am currently learning Go/Golang.
 
-Skills: JS / HTML / CSS / NodeJS / Express / MySQL / MongoDB
+Skills: HTML / CSS / JS / Typescript / NodeJS / Express / Serverless / MySQL / MongoDB / AWS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedin.com/in/giulianaevangelinaolmos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'> ](https://twitter.com/GiulianaEOlmos)  
 
