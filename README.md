@@ -6,7 +6,6 @@
 I am currently working on integrations with NodeJs, serverless, and AWS in a Fintech.
 During my free time I collaborate and mentor in projects with Javascript. 
 I was a Co-organizer in ReactLadies (I love to participate in the communities).
-I am currently learning Go/Golang. 
 
 Skills: HTML / CSS / JS / Typescript / NodeJS / Express / Serverless / MySQL / MongoDB / AWS
 
