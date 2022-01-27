@@ -9,7 +9,7 @@ I was a Co-organizer in ReactLadies (I love to participate in the communities).
 
 Skills: HTML / CSS / JS / Typescript / NodeJS / Express / Serverless / MySQL / MongoDB / AWS
 
-Learning: Go / Golang
+Learning: AWS
 
 Reading: Desing Patterns by Refactoring Guru
 
